@@ -1,0 +1,27 @@
+
+paleta de cor{
+    color: #fae0e4;
+    color: #f7cad0;
+    color: #fbb1bd;
+    color: #ff85a1;
+    color: #ff7096;
+    color: #ff5c8a;
+    color: #ff477e;
+    color: #ff0a54;
+}
+
+
+.navbar-brand{
+    margin-right: 190px;
+}
+
+.nav-item{
+    margin-right: 30px;
+    margin-left: 10px;
+
+}
+
+
+.row{
+    margin: 10px;
+}
