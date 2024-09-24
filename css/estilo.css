@@ -21,7 +21,41 @@ paleta de cor{
 
 }
 
+.textopainel{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
 
 .row{
     margin: 10px;
+    align-items: center;
+    
+    
+}
+
+.rounded{
+    width: 200px ;
+    margin-bottom: 60px;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.col-8{
+    text-align: right;
+}
+
+.quali{
+    margin: 10px;
+    align-items: center;
+    margin-left: 37%;
+    width: 80%;
+
+}
+
+.flushtamanho{
+    margin-left: 400px;
+    margin-right: 400px;
 }
