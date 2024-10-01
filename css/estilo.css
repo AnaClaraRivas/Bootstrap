@@ -116,6 +116,10 @@ footer {
 
 }
 
+.dropdown-toggle{
+  color: white;
+}
+
 .navbar-toggler-icon{
     color: #ff0a54;
 }
@@ -165,6 +169,7 @@ main {
 
   a{
     color: #ff477e;
+    text-decoration: none;
   }
 
 
@@ -214,6 +219,24 @@ main {
 }
 
 
-/* PORTIFOLIO  */
+/* HABILIDADES */
 
+.barra{
+  padding:2%;
+}
+
+.progress-bar{
+  background-color:#ff5c8a ;
+}
+
+
+#Habilidades{
+  width: 550px;
+  padding-top: 2%;
+}
+
+/* CONTATO */
+ #Contato{
+  background-color: #fbb1bd;
+ }
 
